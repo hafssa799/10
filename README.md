@@ -74,3 +74,9 @@ Implémentation de la classe FragmentList.java qui hérite de ListFragment.
 Ce fragment affiche une liste de modules de manière automatique sans avoir 
 
 besoin d'un fichier layout XML spécifique.
+
+
+
+https://github.com/user-attachments/assets/7624f34d-6bd0-442a-af49-4a027abee37b
+
+
